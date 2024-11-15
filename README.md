@@ -37,8 +37,8 @@ The analysis summarizes findings from five datasets, each visualized to enhance 
 ### ***1. Ease of getting to and from the hospital:*** 
 A horizontal stacked bar chart outlines survey responses across four levels ("very easy" to "very difficult"), and a scatter plot highlights public transport accessibility peaking for ages 24-44.
 <br>
-<p align="centre">
-    <img src="charts\figure_1.png" width="624" height="412"/>
+<p style="text-align: center;"> 
+     <img src="charts\figure_1.png" width="624" height="412"/>
 </p>
 <br>
 
