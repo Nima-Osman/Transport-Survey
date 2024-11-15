@@ -1,4 +1,4 @@
-# Transport Systems in Wales, UK
+# Analysing User Satisfaction: Public Transport in Wales, UK
 
 ## **Introduction**
 Wales has developed a comprehensive public transport network shaped by its geography and growing population. 
@@ -80,8 +80,11 @@ These visualizations effectively communicate trends and disparities across the d
 **[Read more](results.md)**
 ---
 ## Discussion
+
 **[Read more](discussion.md)**
+
 ---
+
 **[References](references.md)**: Sources and citations used in the project.
 
 **[Analysis](insert link)**: Python scripts used for analysis.
