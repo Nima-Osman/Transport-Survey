@@ -45,7 +45,7 @@ A horizontal stacked bar chart outlines survey responses across four levels ("ve
 ### ***2. Overall satisfaction with Wales' transportation system:*** 
 Mean satisfaction scores are presented in a stacked bar chart, supplemented by a Google Maps visualization. Higher satisfaction is observed in the South, with centrally located areas scoring lower.
 <br>
-<p>
+<p style="text-align: center;">
     <img src="charts\figure_2.png" width="624" height="412"/>
 </p>
 <br>
