@@ -36,27 +36,27 @@ The analysis summarizes findings from five datasets, each visualized to enhance 
 
 ### ***1. Ease of getting to and from the hospital:*** 
 A horizontal stacked bar chart outlines survey responses across four levels ("very easy" to "very difficult"), and a scatter plot highlights public transport accessibility peaking for ages 24-44.
-![Figure 1](C:\Users\nimas\development\Transport-Survey\charts\figure_1.png)
+![Figure 1](charts\figure_1.png)
 <br>
 
 ### ***2. Overall satisfaction with Wales' transportation system:*** 
 Mean satisfaction scores are presented in a stacked bar chart, supplemented by a Google Maps visualization. Higher satisfaction is observed in the South, with centrally located areas scoring lower.
-![Figure 2](C:\Users\nimas\development\Transport-Survey\charts\figure_2.png)
+![Figure 2](charts\figure_2.png)
 <br>
 
 ### ***3. Ease of getting to and from GPs:*** 
 Stacked bar charts and a comparative table show GP access as generally easier than hospital access, peaking for ages 25-44, with the lowest scores among those aged 75+.
-![Figure 3](C:\Users\nimas\development\Transport-Survey\charts\figure_3.png)
+![Figure 3](charts\figure_3.png)
 <br>
 
 ### ***4. Car usage:*** 
 A stacked bar chart compares car usage rates, revealing the lowest levels among individuals in deprived areas or those unemployed.
-![Figure 4](C:\Users\nimas\development\Transport-Survey\charts\figure_4.png)
+![Figure 4](charts\figure_4.png)
 <br>
 
 ### ***5. Safety on public transport after dark:*** 
 Four stacked bar charts represent perceptions across varying difficulty levels, addressing concerns about night-time safety.
-![Figure 5](C:\Users\nimas\development\Transport-Survey\charts\figure_5.png)
+![Figure 5](charts\figure_5.png)
 <br>
 
 These visualizations effectively communicate trends and disparities across the datasets.
