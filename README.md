@@ -7,11 +7,11 @@ The Welsh government has made efforts to improve transport efficiency and public
 This report reviews a 2013-2014 survey to identify key areas for improvement in Wales' transportation system.
 <br>
 
-### *Objective**
+### **Objective**
 Interpretation and visualisation of the dataset to draw relevant conclusions and 
 make recommendations which will aid in the improvements of the Welsh transportation system.
 
-**[Read more](introduction.md)**
+[Read more](introduction.md)
 ---
 
 ## **Methodology**
@@ -27,7 +27,7 @@ Although Excel was also used for certain tasks, the tools complemented each othe
 enabling efficient analysis and the creation of visually appealing results. 
 Google Colab was chosen over VScode for convenience.
 
-**[Read more](methodology.md)**
+[Read more](methodology.md)
 ---
 
 ## **Results**
@@ -77,20 +77,20 @@ Four stacked bar charts represent perceptions across varying difficulty levels, 
 These visualizations effectively communicate trends and disparities across the datasets.
 <br>
 
-**[Read more](results.md)**
+[Read more](results.md)
 ---
 ## Discussion
 
-**[Read more](discussion.md)**
+[Read more](discussion.md)
 
 ---
 
-**[References](references.md)**: Sources and citations used in the project.
+[References](references.md): Sources and citations used in the project.
 
-**[Analysis](insert link)**: Python scripts used for analysis.
+[Analysis](insert link): Python scripts used for analysis.
 
-**Data**: The dataset is stored in the `data/` folder.
+Data: The dataset is stored in the `data/` folder.
 
-## How to Use
+### How to Use
 
 1. For more detail on each section click on "read more".
