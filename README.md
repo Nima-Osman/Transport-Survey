@@ -51,7 +51,7 @@ Mean satisfaction scores are presented in a stacked bar chart, supplemented by a
 ### ***3. Ease of getting to and from GPs:*** 
 Stacked bar charts and a comparative table show GP access as generally easier than hospital access, peaking for ages 25-44, with the lowest scores among those aged 75+.
 <p>
-    ![Figure 3](<img src="charts\figure_3.png"/>
+    ![Figure 3](<img src="charts\figure_3.png"/>)
 </p>
 <br>
 
