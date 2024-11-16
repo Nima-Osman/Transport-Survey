@@ -10,8 +10,10 @@ This report reviews a 2013-2014 survey to identify key areas for improvement in 
 ### **Objective**
 Interpretation and visualisation of the dataset to draw relevant conclusions and 
 make recommendations which will aid in the improvements of the Welsh transportation system.
+<br>
 
 [Read more](introduction.md)
+
 ---
 
 ## **Methodology**
@@ -26,8 +28,10 @@ Seaborn for visualisations, and Plotly for interactive charts.
 Although Excel was also used for certain tasks, the tools complemented each other, 
 enabling efficient analysis and the creation of visually appealing results. 
 Google Colab was chosen over VScode for convenience.
+<br>
 
 [Read more](methodology.md)
+
 ---
 
 ## **Results**
@@ -78,7 +82,9 @@ These visualizations effectively communicate trends and disparities across the d
 <br>
 
 [Read more](results.md)
+
 ---
+
 ## Discussion
 <br>
 
