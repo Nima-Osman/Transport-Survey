@@ -88,13 +88,27 @@ These visualizations effectively communicate trends and disparities across the d
 ## Discussion
 <br>
 
+The transportation system in Wales has improved, but understanding public needs, 
+particularly in rural areas, remains crucial. Survey results show challenges for 
+demographics like older adults and those with poor health, with public transport 
+accessibility being a key issue. Satisfaction is generally low, especially regarding 
+nighttime safety and access after dark, with bus services in rural areas facing significant 
+limitations. 
+<br>
+
+Recommendations include improving public transport frequency, accessibility, and safety, particularly at night, 
+and addressing the needs of physically limited individuals. More comprehensive surveys and regional data are needed 
+to make informed improvements tailored to urban and rural areas.
+
+<br>
+
 [Read more](discussion.md)
 
 ---
 
 [References](references.md): Sources and citations used in the project.
 
-[Analysis](insert link): Python scripts used for analysis.
+[Analysis](code_file.ipynb): Python scripts used for analysis.
 
 Data: The dataset is stored in the `data/` folder.
 
