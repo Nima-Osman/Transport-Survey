@@ -78,10 +78,9 @@ Four stacked bar charts represent perceptions across varying difficulty levels, 
 </div>
 <br>
 
-These visualizations effectively communicate trends and disparities across the datasets.
+These visualisations effectively communicate trends and disparities across the datasets.
 <br>
 
-[Read more](results.md)
 
 ---
 
