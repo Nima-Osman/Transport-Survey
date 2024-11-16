@@ -80,7 +80,7 @@ These visualizations effectively communicate trends and disparities across the d
 [Read more](results.md)
 ---
 ## Discussion
-
+<br>
 [Read more](discussion.md)
 
 ---
