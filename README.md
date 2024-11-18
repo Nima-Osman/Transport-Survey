@@ -41,31 +41,31 @@ The analysis summarizes findings from five datasets, each visualized to enhance 
 ### ***1. Ease of getting to and from the hospital:*** 
 A horizontal stacked bar chart outlines survey responses across four levels ("very easy" to "very difficult"), and a scatter plot highlights public transport accessibility peaking for ages 24-44.
 <br>
-<div style="text-align: center;">
-    <img src="charts/figure_1.png" width="624" height="412" alt="Chart Image"/>
-</div>
+<p align="center">
+    <img src="charts/figure_1.png" alt="Centered Image" width="624" height="412" alt="Chart Image"/>
+</p>
 <br>
 
 ### ***2. Overall satisfaction with Wales' transportation system:*** 
 Mean satisfaction scores are presented in a stacked bar chart, supplemented by a Google Maps visualization. Higher satisfaction is observed in the South, with centrally located areas scoring lower.
 <br>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="charts/figure_2.png" width="624" height="412" alt="Chart Image" />
-</div>
+<p align="center">
+    <img src="charts/figure_2.png" alt="Centered Image" width="624" height="412" alt="Chart Image" />
+</p>
 <br>
 
 ### ***3. Ease of getting to and from GPs:*** 
 Stacked bar charts and a comparative table show GP access as generally easier than hospital access, peaking for ages 25-44, with the lowest scores among those aged 75+.
 <br>
-<div style="text-align: center;">
-    <img src="charts/figure_3.png" width="624" height="412" alt="Chart Image"/>
-</div>
+<p align="center">
+    <img src="charts/figure_3.png" alt="Centered Image" width="624" height="412" alt="Chart Image"/>
+</p>
 <br>
 
 ### ***4. Car usage:*** 
 A stacked bar chart compares car usage rates, revealing the lowest levels among individuals in deprived areas or those unemployed.
 <br>
-<div style="text-align: center;">
+<div align="center">
     <img src="charts/figure_4.png" width="624" height="412" alt="Chart Image"/>
 </div>
 <br>
@@ -73,9 +73,9 @@ A stacked bar chart compares car usage rates, revealing the lowest levels among 
 ### ***5. Safety on public transport after dark:*** 
 Four stacked bar charts represent perceptions across varying difficulty levels, addressing concerns about night-time safety.
 <br>
-<div style="text-align: center;">
-    <img src="charts/figure_5.png" width="624" height="412" alt="Chart Image"/>
-</div>
+<p align="center">
+    <img src="charts/figure_5.png" alt="Centered Image" width="624" height="412" alt="Chart Image"/>
+</p>
 <br>
 
 These visualisations effectively communicate trends and disparities across the datasets.
